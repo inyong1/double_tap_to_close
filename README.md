@@ -1,3 +1,3 @@
 # doubletaptoclose
 
-./double_back_anim.mp4
+![](https://github.com/inyong1/double_tap_to_close/blob/main/double_back_anim.mp4)
